@@ -1,5 +1,6 @@
 SUMMARY
-================================================================================Ova verzija seta podataka s kojom radim (1M) sadrûi 1.000.209 anonimnih ocjena od pribliûno 3.900 filmova koje je napravilo 6.040 filmskih korisnika koji su se pridruûili MovieLensu 2000. godine.
+================================================================================
+Ova verzija seta podataka s kojom radim (1M) sadr≈æi 1.000.209 anonimnih ocjena od pribli≈æno 3.900 filmova koje je napravilo 6.040 filmskih korisnika koji su se pridru≈æili MovieLensu 2000. godine.
 
 USAGE LICENSE
 ================================================================================
