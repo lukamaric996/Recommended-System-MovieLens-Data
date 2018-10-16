@@ -4,7 +4,7 @@ Ovaj repozitorij prikazuje skup Jupyter notebooks koji prikazuju sustav za prepo
 
 Ovdje su jupyter notebooks:
 * [Procesiranje podataka](https://github.com/lukamaric996/Recommended-System-MovieLens-Data/blob/master/Procesiranje_podataka.ipynb): Učitavanje i obrada podataka korisnika, filmova i ocjena kako bi ih pripremili za unos u modele.
-* [Preporuka filmova pomoću sadržajno baziranog filtriranja](https://github.com/lukamaric996/Recommended-System-MovieLens-Data/blob/master/Sustav_za_preporuku_sadrzajno_baziran.ipynb): Pristup preporuci filmova pomoću sadržajno baziranog filtiranja.
+* [Preporuka filmova pomoću sadržajno baziranog filtriranja](https://github.com/lukamaric996/Recommended-System-MovieLens-Data/blob/master/Sustav_za_preporuku_sadrzajno_baziran.ipynb): Sustav za preporuku na osnovu sadržaja
 
 
 ## License
